@@ -4,7 +4,7 @@
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
 <a href="https://github.com/hanzo-asashi/simintada/release"><img alt="GitHub all releases" src="https://img.shields.io/github/downloads/hanzo-asashi/simintada/total"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img alt="GitHub" src="https://img.shields.io/github/license/hanzo-asashi/simintada?style=flat-square"></a>
+<a href="https://github.com/hanzo-asashi/simintada"><img alt="GitHub" src="https://img.shields.io/github/license/hanzo-asashi/simintada?style=flat-square"></a>
 </p>
 
 ## About Simintada
